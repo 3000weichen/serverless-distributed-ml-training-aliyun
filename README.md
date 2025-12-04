@@ -13,7 +13,7 @@ This repository is based on my research work:
 ## Motivation
 
 Traditional ML clusters require long-running servers → costly and complex  
-Serverless → auto-scaling, pay-per-use ⚡ but ✘ high communication and cold-start costs
+Serverless → auto-scaling, pay-per-use, but high communication and cold-start costs
 
  **Research Goal**  
 Find the optimal configuration of:
