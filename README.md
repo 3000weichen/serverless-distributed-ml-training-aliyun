@@ -48,19 +48,31 @@ Server–Worker collaborative training using AliCloud Function Compute + OSS
 
 ## Repository Structure
 src/
+
 server/handler.py # Parameter server: aggregation & evaluation
+
 worker/handler.py # Worker function: shard training + sync
+
 orchestrator/ # Local launcher for server & workers
 
 experiments/
+
 batch_size_32/ # Experiment logs for different configurations
+
 batch_size_64/
+
 batch_size_128/
+
 local_epoch_1/
+
 local_epoch_2/
+
 local_epoch_5/
+
 sync_freq_1/
+
 sync_freq_2/
+
 sync_freq_3/
 
 
