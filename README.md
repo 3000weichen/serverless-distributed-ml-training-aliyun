@@ -112,8 +112,7 @@ than poorly-tuned configurations with high local epochs :contentReference[oaicit
 
 ## Author
 
-**Hao Chen**  
-MSc Student in Microelectronics, TU Delft  
+**Hao Chen**   
 📫 h.chen.14@umail.leidenuniv.nl
 
 
