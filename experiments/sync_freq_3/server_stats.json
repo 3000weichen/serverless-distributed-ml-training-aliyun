@@ -1,0 +1,1 @@
+{"losses": [2.4015759563446046, 2.0625855695724487, 1.6651067939758302, 1.427168927383423], "accuracies": [0.1007, 0.2722, 0.3909, 0.4939], "total_time_sec": 241.81611609458923, "checkpoint_count": 4, "checkpoint_total_size_MB": 170.9034252166748, "config": {"epoch": 10, "batch_size": 64, "worker_num": 10, "local_epoch": 1, "sync_freq": 3, "checkpoint_policy": "all"}}
